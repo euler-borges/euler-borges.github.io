@@ -1,0 +1,129 @@
+{
+  "site": {
+    "title": "Euler Borges | Portfólio",
+    "description": "Portfólio pessoal de Euler Borges construído com React e Vite.",
+    "name": "Euler Borges Ferreira Filho",
+    "role": "Engenheiro de Computação - Desenvolvedor Backend",
+    "location": "Tupaciguara, MG, Brasil",
+    "summary": "Engenheiro de Computação formado pela UFU, com experiência prática no desenvolvimento e manutenção de APIs com Python e Django. Sólido conhecimento em bancos de dados relacionais, conteinerização e infraestrutura AWS (certificação AWS Academy Cloud Architecting). Fluente em inglês."
+  },
+  "nav": {
+    "aria": "Navegação principal",
+    "about": "Sobre",
+    "projects": "Projetos",
+    "contact": "Contato",
+    "github": "GitHub"
+  },
+  "language": {
+    "aria": "Selecionar idioma"
+  },
+  "hero": {
+    "label": "Portfólio Profissional",
+    "primaryCta": "Ver Projetos",
+    "secondaryCta": "Entrar em Contato"
+  },
+  "about": {
+    "label": "Formação",
+    "title": "Educação Acadêmica",
+    "items": [
+      {
+        "degree": "Bacharelado em Engenharia de Computação",
+        "school": "Universidade Federal de Uberlândia (UFU)",
+        "date": "Graduado em Março de 2026",
+        "details": [
+          "Participação em projetos de iniciação científica com Python para o estudo de dinâmicas caóticas.",
+          "Desenvolvimento em Rust com foco em sistemas distribuídos.",
+          "Monitoria da disciplina de Cálculo I.",
+          "Disciplinas em Machine Learning, cobrindo fundamentos, modelos preditivos e análise de dados."
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "label": "Experiência",
+    "title": "Experiência Profissional",
+    "items": [
+      {
+        "company": "Irrigação sem Fronteiras",
+        "role": "Desenvolvedor Backend (Estagiário -> Efetivado)",
+        "period": "Outubro de 2025 - Maio de 2026",
+        "bullets": [
+          "Desenvolvimento e manutenção de aproximadamente 100 endpoints de API com Python e Django Framework.",
+          "Automação de tarefas com Celery.",
+          "Correção de bugs em funcionalidades já existentes das aplicações.",
+          "Atuação ativa na delegação de tarefas técnicas para o time de backend e participação em processos seletivos técnicos.",
+          "Criação de testes automatizados com pytest."
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "label": "Linguagens, Ferramentas e Competências",
+    "groups": {
+      "languages": {
+        "title": "Linguagens",
+        "items": ["Python", "JavaScript", "TypeScript", "SQL", "C", "Rust", "R"]
+      },
+      "frameworks": {
+        "title": "Frameworks / Libs",
+        "items": ["Django", "React"]
+      },
+      "cloud": {
+        "title": "Cloud & DevOps",
+        "items": [
+          "AWS",
+          "Docker",
+          "Kubernetes",
+          "Terraform",
+          "GitHub Actions",
+          "RabbitMQ"
+        ]
+      },
+      "databases": {
+        "title": "Bancos de Dados",
+        "items": ["PostgreSQL"]
+      },
+      "tools": {
+        "title": "Ferramentas",
+        "items": ["Git", "Jira", "Linux", "DBeaver", "n8n"]
+      },
+      "concepts": {
+        "title": "Conceitos e Práticas",
+        "items": ["Metodologias Ágeis", "Scrum", "Mensageria"]
+      }
+    }
+  },
+  "projects": {
+    "label": "Projetos em Destaque",
+    "githubLabel": "Ver no GitHub",
+    "items": [
+      {
+        "title": "Infraestrutura AWS com Terraform",
+        "description": "Infraestrutura como Código (IaC) na AWS desenvolvida com Terraform. Arquitetura resiliente e escalável utilizando ECS Fargate (Django/Nginx), RDS PostgreSQL, buckets S3 e uma VPC estruturada com endpoints privados para segurança e otimização de custos.",
+        "tags": ["Terraform", "AWS", "ECS Fargate", "Docker", "RDS", "VPC"]
+      },
+      {
+        "title": "Backend de rede social com Django",
+        "description": "Desenvolvimento de um backend para uma rede social utilizando Django Framework. Implementação de funcionalidades como autenticação, gerenciamento de usuários, criação e interação com posts, além de integração com bancos de dados relacionais e testes automatizados.",
+        "tags": ["Django", "Python", "PostgreSQL", "pytest"]
+      }
+    ]
+  },
+  "contact": {
+    "label": "Contato",
+    "title": "Vamos conversar?",
+    "methods": {
+      "email": "E-mail",
+      "phone": "Telefone / WhatsApp",
+      "linkedin": "LinkedIn",
+      "github": "GitHub"
+    },
+    "values": {
+      "linkedin": "euler-borges-ferreira-filho",
+      "github": "github.com/euler-borges"
+    }
+  },
+  "footer": {
+    "techStack": "Desenvolvido com React + TypeScript + Vite"
+  }
+}

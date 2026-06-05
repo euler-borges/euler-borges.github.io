@@ -1,0 +1,129 @@
+{
+  "site": {
+    "title": "Euler Borges | Portfolio",
+    "description": "Personal portfolio of Euler Borges built with React and Vite.",
+    "name": "Euler Borges Ferreira Filho",
+    "role": "Computer Engineer - Backend Developer",
+    "location": "Tupaciguara, MG, Brazil",
+    "summary": "Computer Engineer graduated from UFU, with practical experience in developing and maintaining APIs using Python and Django. Solid knowledge in relational databases, containerization, and AWS infrastructure (AWS Academy Cloud Architecting certified). Fluent in English."
+  },
+  "nav": {
+    "aria": "Primary navigation",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact",
+    "github": "GitHub"
+  },
+  "language": {
+    "aria": "Select language"
+  },
+  "hero": {
+    "label": "Professional Portfolio",
+    "primaryCta": "View Projects",
+    "secondaryCta": "Get in Touch"
+  },
+  "about": {
+    "label": "Education",
+    "title": "Academic Education",
+    "items": [
+      {
+        "degree": "B.S. in Computer Engineering",
+        "school": "Federal University of Uberlândia (UFU)",
+        "date": "Graduated in March 2026",
+        "details": [
+          "Participation in undergraduate research projects aimed at studying chaotic dynamics using Python programs.",
+          "Development in Rust programming language with a focus on distributed systems.",
+          "Calculus I teaching assistantship.",
+          "Completed academic coursework in Machine Learning, covering foundational concepts, predictive models, and data analysis."
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "label": "Experience",
+    "title": "Professional Experience",
+    "items": [
+      {
+        "company": "Irrigação sem Fronteiras",
+        "role": "Backend Developer (Intern -> Full-time)",
+        "period": "October 2025 - May 2026",
+        "bullets": [
+          "Development and maintenance of approximately 100 API endpoints using Python and Django Framework.",
+          "Task automation using Celery.",
+          "Bug fixing in pre-existing features of the applications.",
+          "Active role in delegating technical tasks to the backend team and participation in tech recruitment selection processes.",
+          "Creation of automated tests using pytest."
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "label": "Languages, Tools & Skills",
+    "groups": {
+      "languages": {
+        "title": "Languages",
+        "items": ["Python", "JavaScript", "TypeScript", "SQL", "C", "Rust", "R"]
+      },
+      "frameworks": {
+        "title": "Frameworks / Libs",
+        "items": ["Django", "React"]
+      },
+      "cloud": {
+        "title": "Cloud & DevOps",
+        "items": [
+          "AWS",
+          "Docker",
+          "Kubernetes",
+          "Terraform",
+          "GitHub Actions",
+          "RabbitMQ"
+        ]
+      },
+      "databases": {
+        "title": "Databases",
+        "items": ["PostgreSQL"]
+      },
+      "tools": {
+        "title": "Tools",
+        "items": ["Git", "Jira", "Linux", "DBeaver", "n8n"]
+      },
+      "concepts": {
+        "title": "Concepts & Practices",
+        "items": ["Agile Methodologies", "Scrum", "Messaging"]
+      }
+    }
+  },
+  "projects": {
+    "label": "Featured Projects",
+    "githubLabel": "View on GitHub",
+    "items": [
+      {
+        "title": "AWS Infrastructure with Terraform",
+        "description": "Infrastructure as Code (IaC) on AWS built with Terraform. Resilient and scalable architecture using ECS Fargate (Django/Nginx), RDS PostgreSQL, S3 buckets, and a structured VPC with private endpoints for security and cost optimization.",
+        "tags": ["Terraform", "AWS", "ECS Fargate", "Docker", "RDS", "VPC"]
+      },
+      {
+        "title": "Django Social Network Backend",
+        "description": "Development of a backend for a social network using Django Framework. Implementation of features such as authentication, user management, post creation and interaction, as well as integration with relational databases and automated testing.",
+        "tags": ["Django", "Python", "PostgreSQL", "pytest"]
+      }
+    ]
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Let's talk?",
+    "methods": {
+      "email": "E-mail",
+      "phone": "Phone / WhatsApp",
+      "linkedin": "LinkedIn",
+      "github": "GitHub"
+    },
+    "values": {
+      "linkedin": "euler-borges-ferreira-filho",
+      "github": "github.com/euler-borges"
+    }
+  },
+  "footer": {
+    "techStack": "Built with React + TypeScript + Vite"
+  }
+}
