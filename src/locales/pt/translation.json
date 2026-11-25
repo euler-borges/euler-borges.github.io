@@ -44,6 +44,17 @@
     "title": "Experiência Profissional",
     "items": [
       {
+        "company": "ValutaTech",
+        "role": "Desenvolvedor Backend",
+        "period": "Julho de 2026 - Hoje",
+        "bullets": [
+          "Desenvolvimento e manutenção de endpoints de API (REST e MCP) utilizando a linguagem Python, garantindo alta escalabilidade e integração perfeita de recursos, com aplicação de TDD.",
+          "Gerenciamento da delegação de tarefas na equipe de backend.",
+          "Integração entre sistemas de ERP e DDA bancário para análise e conciliação automática de boletos.",
+          "Contato com provedores de serviços externos para promover a integração dos serviços fornecidos."
+        ]
+      },
+      {
         "company": "Irrigação sem Fronteiras",
         "role": "Desenvolvedor Backend (Estagiário -> Efetivado)",
         "period": "Outubro de 2025 - Maio de 2026",

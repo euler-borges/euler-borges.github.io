@@ -44,6 +44,17 @@
     "title": "Professional Experience",
     "items": [
       {
+        "company": "ValutaTech",
+        "role": "Backend Developer",
+        "period": "July 2026 - Present",
+        "bullets": [
+          "Development and maintenance of API endpoints (REST and MCP) using Python, ensuring high scalability and seamless feature integration while applying TDD.",
+          "Management of task delegation within the backend team.",
+          "Integration between ERP systems and banking DDA for automated boleto analysis and reconciliation.",
+          "Communication with external service providers to facilitate the integration of provided services."
+        ]
+      },
+      {
         "company": "Irrigação sem Fronteiras",
         "role": "Backend Developer (Intern -> Full-time)",
         "period": "October 2025 - May 2026",
